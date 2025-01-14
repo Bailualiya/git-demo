@@ -17,8 +17,10 @@ hello world! HELLO GIT!
 hello world! HELLO GIT!
 hello world! HELLO GIT!
 hello world! HELLO GIT!
+<<<<<<< HEAD
 hello world! HELLO GIT! master test
-hello world! HELLO GIT!
+hello world! HELLO GIT! hot-fix test
+
 
 ~
 ~
